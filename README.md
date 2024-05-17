@@ -1,16 +1,13 @@
-### Hi there 👋
+### seja bem vindos
 
-<!--
-**teteia1/Teteia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e stefane miranda do nascimento 
 
-Here are some ideas to get you started:
+-estou estundo na alura
+-estou me desenvolvendo na lingugem javaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvido
+  
+### você entrar em contato comigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+0000108390484xsp@al.educacao.gov.br
+
+Teteia1
